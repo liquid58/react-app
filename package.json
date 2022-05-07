@@ -1,6 +1,6 @@
 {"name":"new-app",
 "version":"0.1.0",
-"homepage":"https://github.com/liquid58/new-app.git",
+"homepage":"https://liquid58.github.io/react-app",
 "private":true,
 "dependencies":{"@testing-library/jest-dom":"^5.16.4",
 "@testing-library/react":"^13.2.0",
