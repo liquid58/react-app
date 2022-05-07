@@ -28,7 +28,7 @@ const App = () => {
       <Router>
           <Navbar />
           <Routes>
-          <Route exact path="/" element={<Home />}></Route>
+          <Route exact path="react-app/" element={<Home />}></Route>
           <Route exact path="/about" element={<About />}></Route>
           <Route exact path="/blog" element={<Blog />}></Route>
           <Route exact path="/service" element={<Service />}></Route>
