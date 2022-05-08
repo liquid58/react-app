@@ -65,10 +65,10 @@
                 </button>
                 <div className="collapse navbar-collapse justify-content-between px-3" id="navbarCollapse">
                   <div className="navbar-nav ml-auto py-0">
-                   <Link to="react-app/" className="nav-item nav-link active">Home</Link>
-                   <Link to="react-app/about" className="nav-item nav-link">About</Link>
-                   <Link to="react-app/service" className="nav-item nav-link">Service</Link>
-                   <Link to="react-app/project" className="nav-item nav-link">Project</Link>
+                   <Link to="/" className="nav-item nav-link active">Home</Link>
+                   <Link to="/about" className="nav-item nav-link">About</Link>
+                   <Link to="/service" className="nav-item nav-link">Service</Link>
+                   <Link to="/project" className="nav-item nav-link">Project</Link>
                     <div className="nav-item dropdown">
                      <Link to="#" className="nav-link dropdown-toggle" data-toggle="dropdown">Pages</Link>
                       <div className="dropdown-menu rounded-0 m-0">
